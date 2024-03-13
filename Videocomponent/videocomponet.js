@@ -1,7 +1,7 @@
 const Videocomponents=()=>{
     return(
         <div>
-            <h1>smksmkak</h1>
+            <h1>video</h1>
         </div>
     )
 }

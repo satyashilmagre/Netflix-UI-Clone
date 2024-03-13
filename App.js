@@ -7,6 +7,8 @@ import Sectionfour from './Components/Sectionfour';
 import Sectionfive from './Components/Sectionfive';
 import Footer from './Components/Footer';
 import Videocomponents from './Videocomponent/videocomponet';
+import SimpleAccordion from './Components/Faq';
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
      <Sectionthree/>
      <Sectionfour/>
      <Sectionfive/>
+    <SimpleAccordion/>
      <Footer/>
      <Videocomponents/>
     </div>

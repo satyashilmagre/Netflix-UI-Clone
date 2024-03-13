@@ -11,7 +11,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="text-white container fw-bold banner-title">
-                <div>
+                <div className="text-center">
                 <div>
                     <h1>Unlimited movies, TV shows and more</h1>
                 </div>
